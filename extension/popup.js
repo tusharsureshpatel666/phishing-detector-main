@@ -2,7 +2,7 @@
    PhishGuard — Popup Logic
    ============================================================ */
 
-const API_DEFAULT    = 'http://localhost:8000';
+const API_DEFAULT    = 'https://backend-kn7x.onrender.com';
 const GAUGE_CIRC     = 194.8;
 
 let API = API_DEFAULT;

@@ -3,7 +3,7 @@
    Injects a chat widget into Gmail and reads the active email.
    ============================================================ */
 
-   const API_ENDPOINT = 'http://localhost:8000/api/chat';
+   const API_ENDPOINT = 'https://backend-kn7x.onrender.com/api/chat';
 
    let chatHistory = [];
    let widgetOpen = false;

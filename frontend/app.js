@@ -2,7 +2,7 @@
    PhishGuard — Application Logic
    ============================================================ */
 
-const API = 'http://localhost:8000';
+const API = 'https://backend-kn7x.onrender.com';
 const GAUGE_CIRCUMFERENCE = 251.2; // half-circle path length
 
 // ── Utility: score → colour class ────────────────────────────

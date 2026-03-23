@@ -53,7 +53,7 @@ The extension (`Manifest V3`) actively protects the user in real-time.
 
 ## 🌐 4. The Web Dashboard
 
-The central hub accessed via `http://localhost:8000`.
+The central hub accessed via `https://backend-kn7x.onrender.com`.
 
 *   **Multi-Tab Interface:** Separate drop-zones and inputs for URLs, Emails, and PDF Documents.
 *   **Animated Risk Gauge:** An SVG dashboard gauge that animates from 0 to 100 based on the backend risk score.

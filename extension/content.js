@@ -5,7 +5,7 @@
    2. Click interception: for high-risk links, shows a warning overlay
    ============================================================ */
 
-const API_DEFAULT = 'http://localhost:8000';
+const API_DEFAULT = 'https://backend-kn7x.onrender.com';
 const GAUGE_CIRC  = 194.8;
 const INTERCEPT_THRESHOLD = 65; // score >= this triggers block
 const TOOLTIP_THRESHOLD   = 35; // score >= this shows warning badge

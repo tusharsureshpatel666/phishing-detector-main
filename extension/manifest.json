@@ -50,7 +50,7 @@
     }
   ],
   "host_permissions": [
-    "http://localhost:8000/*",
+    "https://backend-kn7x.onrender.com/*",
     "<all_urls>"
   ],
   "content_security_policy": {

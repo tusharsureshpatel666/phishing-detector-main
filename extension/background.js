@@ -5,7 +5,7 @@
    - Updates the extension action icon + badge
    ============================================================ */
 
-const API_DEFAULT = 'http://localhost:8000';
+const API_DEFAULT = 'https://backend-kn7x.onrender.com';
 
 // ── Load settings ──────────────────────────────────────────
 async function getSettings() {
